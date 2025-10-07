@@ -64,5 +64,5 @@ Fechar janela → Sai do jogo
 | 🏅  | `point.wav`                | Pontuação              |
 
 ## 🎮 Demonstração
+[Assista à demonstração no YouTube](https://youtu.be/_-PPG2-3mlg)
 
-[▶️ Assista à demonstração do jogo](assets/demo/demo.mp4)
