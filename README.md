@@ -63,5 +63,6 @@ Fechar janela → Sai do jogo
 | 💥  | `hit.wav`                  | Colisão                |
 | 🏅  | `point.wav`                | Pontuação              |
 
-## Jogando
-<video src="assets/demo/gameplay.mp4" width="500" autoplay loop muted></video>
+## 🎮 Demonstração
+
+[▶️ Assista à demonstração do jogo](assets/demo/demo.mp4)
